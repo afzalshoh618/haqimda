@@ -1,0 +1,2 @@
+# haqimda
+portfolio yuklash uchun
